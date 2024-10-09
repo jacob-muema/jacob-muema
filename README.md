@@ -61,6 +61,6 @@
 ---
 
 ### 🐍 Contribution Snake:
-![Snake animation](https://github.com/jacob-muema/jacob-muema/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/willianmano/willianmano/blob/main/github-contribution-grid-snake.svg)
 
 ---
