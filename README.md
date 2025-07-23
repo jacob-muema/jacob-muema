@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=jacob-muema&label=Profile%20views&color=0e75b6&style=flat" alt="jacob-muema" />
 </p>
 
-- 🌍 Check out my portfolio: [kavengijm-featuringmomalways](https://kavengijm-featuringmomalways.netlify.app/)
+- 🌍 Check out my portfolio: [kavengijm-featuringmomalways](https://jacob-muema.netlify.app/)
 - 📧 Reach me at: **jacobmuema02@gmail.com**
 - ⚡ Fun fact: **I'm funny 🤪**
 
