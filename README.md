@@ -17,7 +17,7 @@
 ---
 
 ### 🌐 Connect with Me:
-<p style="text-align: left; margin-left: 20px;">
+<p style="text-align: left; margin-left: 90%;">
     <a href="https://instagram.com/jakoojeik" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakoojeik" height="30" width="40"/>
     </a>
