@@ -1,117 +1,131 @@
-<img src="https://github.com/jacob-muema/jacob-muema/blob/main/github-header-image.png" alt="Banner" width="100%">
+<img align="right" alt="Coding" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<h1 align="center">Hi, I'm Jacob Muema</h1>
+# Hi, I'm Jacob Muema
 
-<h3 align="center">Backend Developer | Python & Django | AI & Agentic Systems</h3>
+### Backend Developer | Python & Django | AI & Agentic Systems
 
-<p align="center">
-  <a href="https://jacob-muema.netlify.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/jacob-muema-256310270/">LinkedIn</a> •
-  <a href="mailto:jacobmuema02@gmail.com">Email</a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-
-### About Me
-
-* Currently working on backend applications, REST APIs, and AI-powered systems.
-* Looking to collaborate on open-source projects, backend systems, AI applications, and SaaS products.
-* Looking for help with scalable backend architecture, cloud deployment, system design, and advanced AI integrations.
-* Currently learning AI engineering, agentic systems, advanced Django, FastAPI, cloud technologies, and software architecture.
-* Ask me about Python, Django, Django REST Framework, FastAPI, REST APIs, Git, Linux, and AI-powered applications.
-* Fun fact: I enjoy turning real-world problems into practical software solutions.
+I am a Computer Science graduate and developer focused on building backend systems, REST APIs, AI-powered applications, and practical software solutions.
 
 <br clear="right"/>
 
----
+# About Me
 
-### Tech Stack
+**Currently working on**
+Building backend systems with Python, Django, REST APIs, and AI-powered applications.
 
-#### Languages
+**Looking to collaborate on**
+Open-source projects, backend development, AI and agentic systems, SaaS products, and practical software solutions.
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3">
+**Looking for help with**
+Scalable backend architecture, cloud deployment, system design, and advanced AI integrations.
+
+**Currently learning**
+Advanced Django, FastAPI, AI engineering, agentic systems, cloud technologies, and software architecture.
+
+**Ask me about**
+Python, Django, Django REST Framework, FastAPI, REST APIs, Git, GitHub, Linux, APIs, and AI-powered applications.
+
+**Fun fact**
+I enjoy turning real-world problems into practical software solutions and learning new technologies by building projects.
+
+# Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Backend
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-%23A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### DevOps, Cloud & Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge\&logo=netlify\&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+
+### AI & Agentic Development
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-AI%20Engineering-412991?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Agentic%20Systems-6A5ACD?style=for-the-badge)
+
+# Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jacob-muema-256310270/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://jacob-muema.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:jacobmuema02@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://instagram.com/jakoojeik">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 </p>
 
-#### Backend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js">
-</p>
-
-#### Frontend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS">
-</p>
-
-#### Databases
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="45" height="45" alt="SQLite">
-</p>
-
-#### Tools & Platforms
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45" alt="Microsoft Azure">
-</p>
-
-#### AI & APIs
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" width="45" height="45" alt="OpenAPI">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="AI and LLM Development">
-</p>
-
----
-
-### Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/jacob-muema-256310270/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/jakoojeik">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram">
-  </a>
-</p>
-
----
-
-### GitHub Stats
+# GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacob-muema&show_icons=true&locale=en&rank_icon=github" alt="Jacob's GitHub Stats">
+<img src="https://github-readme-stats.shion.dev/api?username=jacob-muema&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Jacob's GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacob-muema&show_icons=true&locale=en&layout=compact" alt="Jacob's Top Languages">
+<img src="https://streak-stats.demolab.com/?user=jacob-muema&theme=dark&hide_border=false" alt="Jacob's GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacob-muema" alt="Jacob's GitHub Streak">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jacob-muema&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Jacob's Top Languages">
+</p>
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jacob-muema&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
+# Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/jacob-muema/jacob-muema/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
+# Top Contributed Repositories
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=jacob-muema&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories">
 </p>
 
 ---
 
-### GitHub Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jacob-muema/jacob-muema/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://komarev.com/ghpvc/?username=jacob-muema&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
-
----
