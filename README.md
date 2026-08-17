@@ -1,4 +1,4 @@
-<img src="https://github.com/jacob-muema/jacob-muema/blob/main/github-header-image.png" alt="Banner" width="100%">
+<!-- <img src="https://github.com/jacob-muema/jacob-muema/blob/main/github-header-image.png" alt="Banner" width="100%"> -->
 
 <h1 align="center">Hi, I'm Jacob Muema</h1>
 
@@ -68,7 +68,7 @@ I enjoy turning real-world problems into practical software solutions and learni
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### Tools & DevOps
+### Tools, Cloud & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -107,33 +107,11 @@ I enjoy turning real-world problems into practical software solutions and learni
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacob-muema&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Jacob's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacob-muema&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Jacob's GitHub Stats">
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-muema&layout=compact&hide_border=true&langs_count=8" alt="Jacob's Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jacob-muema&hide_border=true" alt="Jacob's GitHub Streak">
-</p>
-
----
-
-## Open Source & Contributions
-
-I enjoy contributing to open-source projects, collaborating with other developers, solving real-world problems, and learning from production-grade codebases.
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacob-muema&hide_border=true" alt="Jacob's GitHub Activity Graph">
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jacob-muema/jacob-muema/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
